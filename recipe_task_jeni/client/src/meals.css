@@ -1,0 +1,45 @@
+.img {
+  width: 100%;
+  height: 350px;
+
+
+  z-index: 0;
+}
+
+.body1 {
+  background-color: #383838;
+}
+
+.summary {
+  text-align: center;
+  max-width: 45rem;
+  width: 90%;
+  margin: auto;
+
+  margin-top: -8rem;
+  position: relative;
+  background-color: #383838;
+  color: white;
+  border-radius: 14px;
+  padding: 2rem 3rem;
+  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+}
+
+.summary h2 {
+  font-size: 2.4rem;
+  margin-top: 0;
+}
+
+.heading {
+  color: white;
+  margin-bottom: 1em;
+  font-size: 34px;
+
+}
+
+.parameals {
+  font-size: large;
+  padding: .9em;
+
+  margin-top: -1em;
+}

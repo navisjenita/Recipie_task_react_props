@@ -1,0 +1,89 @@
+.card-body{
+    background-color: #383838;
+    padding: 2em;
+}
+
+.card1{
+    
+    height: 130px;
+    width: 900px;
+    margin-left: 16%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid gray;
+  
+    padding:1em;
+}
+
+.item-left{
+    margin-top: 1em;
+    margin-right: 16em;
+}
+.item-left p{
+    color: gray;
+}
+.quantity{
+    margin-top: 1em;
+    display:flex;
+    gap: .5em;
+   
+    height:2em;
+
+}
+.item-right h4{
+  color: black;
+  font-size: large;
+  
+}
+button{
+    margin-top: 5%;
+    background-color: rgb(126, 6, 6);
+    width: 90px;
+    height: 25px;
+    border-color:  rgb(126, 6, 6);
+    border-radius: 15px;
+    color: white;
+}
+.b1{
+    width: 25px;
+    height:25px;
+    border-radius: 50%;
+    border:1px solid brown;
+    background-color: transparent;
+    color: brown;
+}
+.countborder{
+    border:1px solid rgb(223, 213, 213);
+    padding:.3em 1.5em;
+    margin-top: -.2em;
+   
+   
+   
+   
+}
+.item-right h4{
+    display: flex;
+    gap:.5em;
+    
+}
+.addbutton{
+    width:180px;
+    height: 35px;
+ 
+    
+    
+}
+.addbuttondiv{
+    margin-left: .5em;
+    
+}
+.namecard{
+    font-size: x-large;
+}
+.descriptioncard{
+    font-size: large;
+}
+.pricecard{
+    color:rgba(192, 39, 39, 0.925);
+}
